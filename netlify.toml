@@ -1,0 +1,12 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/curriculo.html"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/curriculo"
+  to = "/"
+  status = 301
